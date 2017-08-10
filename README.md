@@ -5,7 +5,7 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-https://github.com/best98ir/SASAN.git
+git clone https://github.com/best98ir/SASAN.git
 cd SASAN
 chmod +x beyond.sh
 ./beyond.sh install
